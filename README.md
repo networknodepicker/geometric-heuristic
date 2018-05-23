@@ -1,5 +1,5 @@
 ## A Geometric Heuristic for Determining Node Placement in Community Networks
-A Python script that finds the "optimal" node combination (and their locations) for community networks given a CSV file containing the node and road coordinates.
+A Python script that finds the node combination (and their locations) that serves the most number of people in a community network given a CSV file containing the node and road coordinates.
 
 
 
